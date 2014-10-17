@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[duh:home|Door43 (duh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-duh|d43-duh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-duh/archive/master.zip|d43-duh.zip]]
+
+**Recent Changes**
+{{changes>ns = duh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/duh|Ethnologue data]]
+
